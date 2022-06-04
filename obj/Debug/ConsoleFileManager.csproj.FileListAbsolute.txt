@@ -1,0 +1,8 @@
+D:\Documents\projects\Lesson17\ConsoleFileManager\bin\Debug\ConsoleFileManager.exe.config
+D:\Documents\projects\Lesson17\ConsoleFileManager\bin\Debug\ConsoleFileManager.exe
+D:\Documents\projects\Lesson17\ConsoleFileManager\bin\Debug\ConsoleFileManager.pdb
+D:\Documents\projects\Lesson17\ConsoleFileManager\obj\Debug\ConsoleFileManager.csproj.AssemblyReference.cache
+D:\Documents\projects\Lesson17\ConsoleFileManager\obj\Debug\ConsoleFileManager.csproj.SuggestedBindingRedirects.cache
+D:\Documents\projects\Lesson17\ConsoleFileManager\obj\Debug\ConsoleFileManager.csproj.CoreCompileInputs.cache
+D:\Documents\projects\Lesson17\ConsoleFileManager\obj\Debug\ConsoleFileManager.exe
+D:\Documents\projects\Lesson17\ConsoleFileManager\obj\Debug\ConsoleFileManager.pdb
